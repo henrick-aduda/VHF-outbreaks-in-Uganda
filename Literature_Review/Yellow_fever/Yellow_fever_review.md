@@ -21,12 +21,3 @@ However tracing back the Uganda 2010 strain clustered with the East African/Cent
 This indicates that the Uganda 2016 strain and the Uganda 2010 strain belong to different genotypes and thus may not be from a common sylvatic origin.
 
 ![history_image](history.jpeg)
-```mermaid
-graph TD;
-    1948--> 1952;
-    1952--> 1959;
-    1959-->1964;
-    1964-->1972:Entebbe;
-    1972:Entebbe-->2010:Nothern_Uganda;
-    2010:Nothern_Uganda-->2016:south_western_Uganda
-```
