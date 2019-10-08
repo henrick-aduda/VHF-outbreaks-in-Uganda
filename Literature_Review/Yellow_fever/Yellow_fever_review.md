@@ -1,8 +1,9 @@
 # Phylogeny of Yellow Fever Virus, Uganda, 2016
+## Introduction
 In April 2016 , cases of yellow fever were identified in the southwestern district, Masaka, of Uganda . By June 2016, the Ministry 
 of Health of Uganda had reported 68 suspected yellow fever cases, of which 3 probable and 7 confirmed cases were in the Masaka, 
 Rukungiri, and Kalangala districts.
-## Methodology 
+## Review
 Presence of YFV RNA in human clinical samples confirmed using real-time reverse transcription PCR.
 One serum sample was then selected for NGS because of its relative concentration of viral RNA (Determined by cycle threshold <30).The sample
 was then sequenced using Ion torrent sequencing technology. 
