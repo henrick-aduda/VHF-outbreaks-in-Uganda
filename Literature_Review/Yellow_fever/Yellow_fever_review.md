@@ -20,7 +20,6 @@ The study goes on to perform a phylogenetic analyses of the BLAST results and th
 However tracing back the Uganda 2010 strain clustered with the East African/Central African genotype strains.(Using NGS to identify yellow fever virus paper). This is in contrast to the Uganda 2016 strain which clusters well with other East African genotypes.
 This indicates that the Uganda 2016 strain and the Uganda 2010 strain belong to different genotypes and thus may not be from a common sylvatic origin.
 
-### Brief overview of Yellow Fever Outbreaks in Uganda
 ![history_image](history.jpeg)
 ```mermaid
 graph TD;
