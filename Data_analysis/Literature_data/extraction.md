@@ -6,6 +6,7 @@
 *Key terms:* (Yellow fever virus,Crimean-Congo hemorrhagic fever virus,Ebola virus,Rift Valley fever virus,Marburg virus MBG)
  
 | Taxonomic_id   | Viral hemorrhagic Fever      | 
+| -------------  |:----------------------------:|
 |  :11089:       | :Yellow Fever Virus:         | 
 |  :11588:       | :Rift Valley Fever Virus     |
 |  :11269:       | :Marburg Virus Disease       | 
