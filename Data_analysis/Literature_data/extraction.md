@@ -7,11 +7,11 @@
  
 | Taxonomic_id   | Viral hemorrhagic Fever      | 
 | -------------  |:----------------------------:|
-|  :11089:       | :Yellow Fever Virus:         | 
-|  :11588:       | :Rift Valley Fever Virus     |
-|  :11269:       | :Marburg Virus Disease       | 
-|  :1980519:     | :Crimean Congo Fever         | 
-|  :1570291:     | :Ebola Virus Disease         |
+|   11089        |  Yellow Fever Virus          | 
+|   11588        |  Rift Valley Fever Virus     |
+|   11269        |  Marburg Virus Disease       | 
+|   1980519      |  Crimean Congo Fever         | 
+|   1570291      |  Ebola Virus Disease         |
 
 3. I then searched for each of the VHF sequences on NCBI.I placed in the taxonomic id,a parameter for country as well as sequence length to ensure I get the full length viral sequences and the partial sequences. I put in the maximum sequence
 length parameter using information from ViralZone database (https://viralzone.expasy.org/). I toggled with the SLEN parameter placing different lengths each time to ensure i pick up all the full length sequences and the partial sequences.
